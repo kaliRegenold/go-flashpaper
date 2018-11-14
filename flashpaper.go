@@ -4,8 +4,7 @@ package main
 
 import (
 	"bytes"
-//	"context"
-	"golang.org/x/net/context"
+	"context"
 	"crypto/rand"
 	"errors"
 	"fmt"
